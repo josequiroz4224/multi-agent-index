@@ -156,6 +156,9 @@ multi-agent-index/
 
 ## Dashboard
 
+![Dashboard Overview](image.png)
+![Dashboard Result](image-1.png)
+
 The project includes a NiceGUI dashboard for workflow execution and agent output visualization.
 
 Current dashboard capabilities:
@@ -288,3 +291,6 @@ Manufacturing Supply Chain Engineer | AI & Analytics
 Austin, Texas
 
 GitHub: https://github.com/josequiroz4224
+LinkedIn: https://www.linkedin.com/in/josemaria-quiroz
+
+
